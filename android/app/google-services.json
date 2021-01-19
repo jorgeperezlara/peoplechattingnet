@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "860551826467",
+    "project_id": "peoplechattingnet",
+    "storage_bucket": "peoplechattingnet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:860551826467:android:baa51e43f18fc4f3cdb596",
+        "android_client_info": {
+          "package_name": "com.citron.peoplechatting.peoplechattingnet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "860551826467-b68asdva7lnpfjkqt499ha9g54akfjgt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOaBl1c2GAfslgDDHc0COpGfIxaCyQfbM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "860551826467-b68asdva7lnpfjkqt499ha9g54akfjgt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
